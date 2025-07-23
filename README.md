@@ -6,6 +6,8 @@ I graduated in May 2025 with a bachelor's in Management Information Systems from
 This summer (2025) I am doing a cyber security internship at FirstBank in Lakewood, Colorado.
 I am currently focused on learning and getting more comfortable using tools and skills necessary to succeed in cyber security including Splunk, Crowdstrike, AWS, Wireshark, Proofpoint. 
 
+I am passionate about using AI and automation tools to make security practices more accurate and efficient. 
+
 <!--
 **kylernats/kylernats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

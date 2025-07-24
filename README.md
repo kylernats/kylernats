@@ -4,7 +4,7 @@ Hi, I'm Kyler!
 I graduated in May 2025 with a bachelor's in Management Information Systems from the University of Arizona. I am currently enrolled in a master's degree in MIS with a concentration in information security & assurance with a May 2026 graduation, also from University of Arizona. 
 
 This summer (2025) I am doing a cyber security internship at FirstBank in Lakewood, Colorado.
-I am currently focused on learning and getting more comfortable using tools and skills necessary to succeed in cyber security including Splunk, Crowdstrike, AWS, Wireshark, Proofpoint. 
+I am currently focused on learning and getting more comfortable using tools and skills necessary to succeed in cyber security including Splunk, Crowdstrike, AWS, Terraform, Wireshark, Proofpoint. 
 
 I am passionate about using AI and automation tools to make security practices more accurate and efficient. I love to learn and pursue projects outside of work and school. Reach out, I would love to connect with you!
 

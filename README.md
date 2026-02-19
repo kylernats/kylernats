@@ -3,9 +3,11 @@ Hi, I'm Kyler!
 
 I graduated in May 2025 with a bachelor's in Management Information Systems from the University of Arizona. I am currently enrolled in a master's degree in MIS with a concentration in information security & assurance with a May 2026 graduation, also from University of Arizona. 
 
-This summer (2025) I completed a cybersecurity internship at FirstBank in Lakewood, Colorado.
+Last summer (2025) I completed a cybersecurity internship at FirstBank in Lakewood, Colorado.
 
 I am passionate about using AI and automation tools to make security practices more accurate and efficient. I love to learn and pursue projects outside of work and school. Reach out, I would love to connect with you!
+
+https://kylernats.github.io/personal-blog/
 
 📫 kylernats@gmail.com
 <!--
